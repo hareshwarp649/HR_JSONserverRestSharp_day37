@@ -1,0 +1,8 @@
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day37-AddressBook\Uc1_Uc2_AddressBookJSON37\bin\Debug\Uc1_Uc2_AddressBookJSON37.exe.config
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day37-AddressBook\Uc1_Uc2_AddressBookJSON37\bin\Debug\Uc1_Uc2_AddressBookJSON37.exe
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day37-AddressBook\Uc1_Uc2_AddressBookJSON37\bin\Debug\Uc1_Uc2_AddressBookJSON37.pdb
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day37-AddressBook\Uc1_Uc2_AddressBookJSON37\obj\Debug\Uc22_Uc23_AddressBookJSON37.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day37-AddressBook\Uc1_Uc2_AddressBookJSON37\obj\Debug\Uc22_Uc23_AddressBookJSON37.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day37-AddressBook\Uc1_Uc2_AddressBookJSON37\obj\Debug\Uc22_Uc23_AddressBookJSON37.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day37-AddressBook\Uc1_Uc2_AddressBookJSON37\obj\Debug\Uc1_Uc2_AddressBookJSON37.exe
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day37-AddressBook\Uc1_Uc2_AddressBookJSON37\obj\Debug\Uc1_Uc2_AddressBookJSON37.pdb
