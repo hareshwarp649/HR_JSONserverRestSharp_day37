@@ -1,0 +1,8 @@
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day37-AddressBook\Uc24_U25_Json_AddBook37\JSONAddressBook_Uc24_Uc25\bin\Debug\JSONAddressBook_Uc24_Uc25.exe.config
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day37-AddressBook\Uc24_U25_Json_AddBook37\JSONAddressBook_Uc24_Uc25\bin\Debug\JSONAddressBook_Uc24_Uc25.exe
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day37-AddressBook\Uc24_U25_Json_AddBook37\JSONAddressBook_Uc24_Uc25\bin\Debug\JSONAddressBook_Uc24_Uc25.pdb
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day37-AddressBook\Uc24_U25_Json_AddBook37\JSONAddressBook_Uc24_Uc25\obj\Debug\JSONAddressBook_Uc24_Uc25.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day37-AddressBook\Uc24_U25_Json_AddBook37\JSONAddressBook_Uc24_Uc25\obj\Debug\JSONAddressBook_Uc24_Uc25.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day37-AddressBook\Uc24_U25_Json_AddBook37\JSONAddressBook_Uc24_Uc25\obj\Debug\JSONAddressBook_Uc24_Uc25.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day37-AddressBook\Uc24_U25_Json_AddBook37\JSONAddressBook_Uc24_Uc25\obj\Debug\JSONAddressBook_Uc24_Uc25.exe
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day37-AddressBook\Uc24_U25_Json_AddBook37\JSONAddressBook_Uc24_Uc25\obj\Debug\JSONAddressBook_Uc24_Uc25.pdb
